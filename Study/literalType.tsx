@@ -22,7 +22,7 @@ interface HighSchoolStudent {
   grade: 1 | 2 | 3; // 유니온 타입 -> |
 }
 
-// Union Types (유니온 타입) --> 1 | 2 세로줄
+// Union Types (유니온 타입) -> 1 | 2 세로줄
 // 식별 가능한 유니온 타입 : 동일한 속성을 다르게 해서 구분할 수 있는 것
 // or을 의미함.
 
